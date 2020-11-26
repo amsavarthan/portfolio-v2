@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lvamsavarthan.github.io
+Token: 5e74ca3929fd596efeae2605e3ee61b788ec889b9d8af4c709273c2abff98666
